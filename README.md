@@ -9,7 +9,11 @@ B站视频[链接](https://b23.tv/BV1Ws411L7oK) https://b23.tv/BV1Ws411L7oK
 
 # 实物图
 
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/Freescale_double_mini.jpg)
+
 ![](./Freescale_double_mini.jpg)
+
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/Freescale_mini.jpg)
 
 ![](./Freescale_mini.jpg)
 
