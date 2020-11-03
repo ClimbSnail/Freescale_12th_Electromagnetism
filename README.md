@@ -9,7 +9,7 @@ B站视频[链接](https://b23.tv/BV1Ws411L7oK) https://b23.tv/BV1Ws411L7oK
 
 # 实物图
 
-![](./IMG_20170712_003019_mini.jpg)
+![](./Freescale_double_mini.jpg)
 
-![](./IMG_20170713_185219_mini.jpg)
+![](./Freescale_mini.jpg)
 
